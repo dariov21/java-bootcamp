@@ -1,7 +1,9 @@
 package com.myshoppingcart.app;
 
 import java.util.ArrayList;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class ShoppingCart{
 	
 	private User user;

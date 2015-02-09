@@ -1,4 +1,6 @@
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartWebServiceClient.java
+C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartApp2.java
+C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartCreator.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ItemToPurchase.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\hello\MessageService.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\App.java
@@ -11,11 +13,14 @@ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\hello\Application.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\PayOrder.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ItemToOffer.java
+C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartCreatorService.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\hello\Page.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartServiceProxy.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCart.java
+C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartController.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\CashPayment.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\PayPalPayment.java
+C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartApp.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartServiceFactory.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\State.java
 C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\java\com\myshoppingcart\app\ShoppingCartServiceJmsClient.java

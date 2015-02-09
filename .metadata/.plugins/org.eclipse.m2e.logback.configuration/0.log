@@ -1593,3 +1593,365 @@
 2015-02-06 23:11:45,191 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
 2015-02-06 23:11:45,193 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-06 23:11:45,193 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 00:28:12,070 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 00:28:12,085 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 00:28:12,085 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 00:28:12,085 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 00:28:12,085 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 11:37:20,823 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 11:37:20,869 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 11:37:20,870 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 11:37:20,877 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 11:37:20,878 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 11:37:21,966 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 11:37:21,968 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 11:37:21,968 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 11:37:21,972 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 11:37:21,972 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 12:19:40,495 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-07 12:19:45,097 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-07 12:19:47,635 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-07 12:19:47,637 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-07 12:19:48,534 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2015-02-07 12:19:51,354 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 12:19:51,355 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 12:19:51,356 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 12:19:51,358 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 12:19:51,358 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 12:48:48,332 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 12:48:48,343 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 12:48:48,344 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 12:48:48,350 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 12:48:48,351 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 14:32:05,833 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:32:05,835 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:32:05,835 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:32:05,838 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:32:05,839 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 14:37:30,727 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.1.1.RELEASE/spring-boot-1.1.1.RELEASE-sources.jar
+2015-02-07 14:37:32,923 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.1.1.RELEASE/spring-boot-1.1.1.RELEASE-sources.jar
+2015-02-07 14:37:33,320 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:1.1.1.RELEASE
+2015-02-07 14:37:34,195 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:37:34,196 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:37:34,198 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:37:34,202 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:37:34,203 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 14:46:22,658 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:46:22,659 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:46:22,660 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:46:22,663 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:46:22,664 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 14:50:19,055 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:50:19,056 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:50:19,057 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 14:50:19,060 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 14:50:19,060 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 16:03:11,419 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:03:11,421 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:03:11,421 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:03:11,425 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:03:11,426 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 16:06:44,608 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:06:44,609 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:06:44,610 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:06:44,612 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:06:44,613 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 16:07:23,636 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.5.RELEASE/spring-beans-4.0.5.RELEASE-sources.jar
+2015-02-07 16:07:27,510 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.5.RELEASE/spring-beans-4.0.5.RELEASE-sources.jar
+2015-02-07 16:07:27,653 [Worker-66] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.0.5.RELEASE
+2015-02-07 16:07:28,445 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:07:28,447 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:07:28,448 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 16:07:28,451 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 16:07:28,452 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 22:01:56,707 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:01:56,717 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:01:56,717 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:01:56,720 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:01:56,720 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 22:39:59,850 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:39:59,853 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:39:59,854 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:39:59,857 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:39:59,858 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 22:40:09,301 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:09,301 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:09,301 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:09,303 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:09,303 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 22:40:36,985 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:36,986 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:36,987 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:36,991 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:36,992 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-07 22:40:44,267 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:44,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:44,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-07 22:40:44,270 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 22:40:44,271 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-08 00:32:22,797 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-08 00:32:24,487 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/main/java
+2015-02-08 00:32:24,488 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/test/java
+2015-02-08 00:32:24,754 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-08 00:32:25,769 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-02-08 00:32:27,817 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-08 00:32:28,880 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:32:28,897 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 00:32:28,900 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:32:28,903 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 00:55:32,473 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-08 00:55:32,888 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-08 00:55:34,295 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/main/java
+2015-02-08 00:55:34,297 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/test/java
+2015-02-08 00:55:35,190 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-02-08 00:55:36,572 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:55:36,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 00:55:36,576 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:55:36,578 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 00:59:23,604 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:59:23,606 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 00:59:23,608 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:59:23,609 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 00:59:53,218 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:59:53,221 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 00:59:53,224 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 00:59:53,227 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:00:25,579 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:00:25,582 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:00:25,584 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:00:25,586 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:04:44,993 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:04:44,995 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:04:44,998 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:04:45,000 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:06:47,251 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:06:47,253 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:06:47,255 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:06:47,256 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:07:55,430 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:07:55,432 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:07:55,434 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:07:55,435 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:09:39,394 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:09:39,396 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:09:39,399 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:09:39,401 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:10:14,274 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:10:14,276 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:10:14,278 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:10:14,279 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:13:01,466 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:13:01,467 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:13:01,470 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:13:01,471 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:13:35,176 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:13:35,178 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:13:35,180 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:13:35,181 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:14:27,022 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:14:27,024 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:14:27,025 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:14:27,029 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:15:57,093 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:15:57,095 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:15:57,097 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:15:57,098 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:16:39,676 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:16:39,678 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:16:39,679 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:16:39,680 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:18:34,025 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:18:34,027 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:18:34,029 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:18:34,030 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:19:25,156 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:19:25,158 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:19:25,160 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:19:25,161 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:20:19,197 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:20:19,199 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:20:19,201 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:20:19,202 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:21:34,286 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:21:34,287 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\main\resources
+2015-02-08 01:21:34,288 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:21:34,290 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:23:47,217 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:23:47,243 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:23:47,244 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:23:47,245 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:25:37,749 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:25:37,752 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:25:37,755 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:25:37,757 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:26:03,703 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:26:03,707 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:26:03,710 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:26:03,712 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:26:34,052 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:26:34,054 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:26:34,055 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:26:34,056 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:27:45,347 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:27:45,350 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:27:45,352 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:27:45,354 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:28:20,994 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:28:20,997 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:28:20,998 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:28:21,000 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:29:27,808 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:29:27,812 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:29:27,814 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:29:27,815 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:30:09,901 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:30:09,905 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:30:09,907 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:30:09,910 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:30:53,510 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:30:53,515 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:30:53,517 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:30:53,520 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:32:30,363 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:32:30,365 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:32:30,368 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:32:30,370 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:33:06,307 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:33:06,310 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:33:06,313 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:33:06,315 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:35:55,184 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:35:55,186 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:35:55,188 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:35:55,191 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:37:04,405 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:04,409 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:37:04,411 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:04,413 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:37:21,825 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:21,827 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:37:21,828 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:21,830 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 01:37:52,883 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:52,886 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 01:37:52,888 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 01:37:52,889 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-08 17:03:34,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-08 17:03:34,188 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-08 17:03:34,188 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-08 17:03:34,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-08 17:03:34,205 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-08 17:03:36,451 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 17:03:36,496 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-08 17:03:36,501 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-08 17:03:36,503 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-09 15:38:35,113 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 15:38:36,674 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 15:38:36,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-09 15:38:36,683 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 15:38:36,684 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-09 15:58:54,334 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-09 15:58:54,697 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 15:58:57,870 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/main/java
+2015-02-09 15:58:57,871 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myuser-app/src/main/resources
+2015-02-09 15:58:57,872 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/test/java
+2015-02-09 15:58:58,977 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 15:59:00,204 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2015-02-09 15:59:02,896 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 15:59:02,898 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-09 15:59:02,899 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 15:59:02,901 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-09 16:07:23,955 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-09 16:07:24,201 [Worker-17] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:374) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'packaging' (position: START_TAG seen ...</version>\r\n  <packaging>... @8:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 16 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'packaging' (position: START_TAG seen ...</version>\r\n  <packaging>... @8:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2052) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 18 common frames omitted
+2015-02-09 16:07:24,353 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-09 16:07:24,905 [Worker-21] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'packaging' (position: START_TAG seen ...</version>\r\n  <packaging>... @8:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'packaging' (position: START_TAG seen ...</version>\r\n  <packaging>... @8:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:114) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2052) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-09 16:17:46,639 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-09 16:17:46,989 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 16:17:52,331 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/main/java
+2015-02-09 16:17:52,332 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myuser-app/src/main/resources
+2015-02-09 16:17:52,333 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myuser-app/src/test/java
+2015-02-09 16:17:59,041 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 16:18:04,714 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for myuser-app
+2015-02-09 16:18:05,072 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 18 sec
+2015-02-09 16:18:06,669 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp.app:myuser-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\pom.xml.
+2015-02-09 16:18:12,454 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 16:18:12,456 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-09 16:18:12,458 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 16:18:12,459 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources
+2015-02-09 16:31:42,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-09 16:31:42,532 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-09 16:31:42,533 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-09 16:31:42,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-09 16:31:42,556 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-09 16:31:47,832 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 16:31:47,842 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-09 16:31:47,845 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-09 16:31:47,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\UserCRUD\myuser-app\src\test\resources

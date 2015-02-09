@@ -44,6 +44,7 @@ public class ShoppingCartServiceImp implements ShoppingCartService{
 		
 	}
 
+	@Override
 	public void createShoppingCart(User user) {
 		
 		ApplicationContext context =  new AnnotationConfigApplicationContext(ShoppingCartApp.class);

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class ShoppingCartApp2 {
 
 	public static void main(String[] args) {
-		User user = new User();
+		//User user = new User();
 		SpringApplication.run(ShoppingCartApp2.class, args);
 	}
 
